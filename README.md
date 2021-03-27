@@ -6,7 +6,7 @@ Ejemplo básico de app creada con react, es un tipo de directorio de anime bási
 
 ![img2](./images/img2.png)
 
-En este proyecto se utilizó json-server para simular un backend minimalista el cual está dentro del mismo proyecto.
+En este proyecto se utilizó json-server para simular un backend minimalista el cual está dentro del mismo.
 
 Ejecutar los siguientes comandos dentro del proyecto para iniciar app:
 ### Inicio de Frontend
