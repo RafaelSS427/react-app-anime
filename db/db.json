@@ -1,0 +1,76 @@
+{
+  "animes": [
+    {
+      "title": "Kimetsu no yaiba",
+      "description": "Anime donde el protagonista intenta volver hacer humana a su hermana, holi",
+      "capitulos": 26,
+      "estado": 1,
+      "image": "https://infoliteraria.com/wp-content/uploads/2020/04/Kimetsu-no-Yaiba-726x1024.jpg",
+      "date": "2021-03-26 23:27:41",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Noragami",
+      "description": "Es un anime de un dios pobre e inutil que busca seguidores",
+      "estado": 0,
+      "capitulos": 13,
+      "image": "https://gaminguardian.com/wp-content/uploads/2018/01/Noragami.jpg",
+      "create": "07-12-2001"
+    },
+    {
+      "title": "Naruto",
+      "description": "El protagonista sueña en convertirse en hokage",
+      "capitulos": 500,
+      "estado": 2,
+      "image": "https://images.justwatch.com/backdrop/186994372/s1440/naruto-shippuden",
+      "date": "2021-03-11 23:16:23",
+      "id": 7
+    },
+    {
+      "title": "Horimiya",
+      "description": "Anime de romance, tiene mucha comedia",
+      "capitulos": 10,
+      "estado": 2,
+      "image": "https://ramenparados.com/wp-content/uploads/2021/01/horimiya-destacado-1000x600.jpg",
+      "date": "2021-03-11 23:02:46",
+      "id": 8
+    },
+    {
+      "title": "One Punch Man",
+      "description": "Anime de un pelon mamadisimo",
+      "capitulos": 12,
+      "estado": 1,
+      "image": "https://dlprivateserver.com/wp-content/uploads/2020/02/One-Punch-Man-c%C3%B3mo-desbloquear-a-cada-personaje.jpg",
+      "date": "2021-03-11 22:21:25",
+      "id": 9
+    },
+    {
+      "title": "shigatsu wa kimi no uso",
+      "description": "Relata la historia de un chico que es pianista pero tiene problemas psicologicos con el mismo. Es un anime algo triste",
+      "capitulos": 25,
+      "estado": 1,
+      "image": "https://cdn-images-1.medium.com/max/2000/1*qF1021ble9swD7xcZfCO7w.jpeg",
+      "date": "2021-03-11 23:09:57",
+      "id": 11
+    },
+    {
+      "title": "shingeki no kyojin",
+      "description": "anime de titanes",
+      "capitulos": 24,
+      "estado": 2,
+      "image": "https://www.playerone.vg/wp-content/uploads/2020/06/Attack-on-Titan-Shingeki-no-Kyojin-130-cap%C3%ADtulo-manga.jpg",
+      "date": "2021-03-11 23:18:52",
+      "id": 12
+    },
+    {
+      "title": "Nanatsu no taizai",
+      "description": "Un grupo de caballeros que fueron injustamente juzgados",
+      "capitulos": 26,
+      "estado": 1,
+      "image": "https://i0.wp.com/www.bitme.gg/wp-content/uploads/2020/11/Nanatsu-no-Taizai-confirma-fecha-de-estreno-para-la-Temporada-4.jpg?fit=1280%2C720&ssl=1",
+      "date": "2021-03-26 23:24:38",
+      "id": 13
+    }
+  ]
+}
